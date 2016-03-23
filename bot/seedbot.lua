@@ -256,7 +256,7 @@ function create_config( )
     "stickertophoto",
     "webshot"
     },
-    sudo_users = {164985762},--Sudo users
+    sudo_users = {164985762,105831687,123627901},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast v5 - 
